@@ -1,0 +1,20 @@
+Dia 1 (14/04)
+Instalação dos programas necessários e configuração do ambiente para a aplicação e a solução de armazenamento de dados.
+Pesquisa e desenvolvimento da captura de dados do twitter.
+
+Dia 2 (15/04)
+Desenvolvimento da conexão entre a aplicação e o banco de dados e da solução de armazenamento dos dados (criação da(s) tabela(s) e carga).
+
+Dia 3 (16/04)
+Pesquisa sobre API REST e estruturação e configuração do ambiente para construção da API.
+Início da construção da API.
+
+Dia 4 (17/04)
+Continuação da construção da API e teste unitário da API.
+
+Dia 5 (18/04)
+Construção e teste do shell script. 
+Homologação da solução.
+
+Dia 6 (19/04)
+Elaboração das documentações técnica e funcional e upload dos arquivos para o GitHub.
